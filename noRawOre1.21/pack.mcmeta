@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Ore Blocks drop themselves, instead of Raw Ore",
+        "pack_format": 48
+    }
+}
